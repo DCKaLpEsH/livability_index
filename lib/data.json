@@ -1,0 +1,187 @@
+[
+    {
+        "City": "Ahmedabad",
+        "Score": 27.03,
+        "Rank": 7
+    },
+    {
+        "City": "Bengaluru",
+        "Score": 32.06,
+        "Rank": 4
+    },
+    {
+        "City": "Bhopal",
+        "Score": 23.72,
+        "Rank": 13
+    },
+    {
+        "City": "Bhubaneshwar",
+        "Score": 20.36,
+        "Rank": 25
+    },
+    {
+        "City": "Chandigarh",
+        "Score": 23.45,
+        "Rank": 14
+    },
+    {
+        "City": "Chennai",
+        "Score": 32.91,
+        "Rank": 3
+    },
+    {
+        "City": "Coimbatore",
+        "Score": 20.41,
+        "Rank": 24
+    },
+    {
+        "City": "Dehradun",
+        "Score": 20.42,
+        "Rank": 23
+    },
+    {
+        "City": "Delhi",
+        "Score": 42.15,
+        "Rank": 1
+    },
+    {
+        "City": "Faridabad",
+        "Score": 19.58,
+        "Rank": 32
+    },
+    {
+        "City": "Goa",
+        "Score": 24.9,
+        "Rank": 10
+    },
+    {
+        "City": "Gurgaon",
+        "Score": 25.42,
+        "Rank": 9
+    },
+    {
+        "City": "Guwahati",
+        "Score": 19.99,
+        "Rank": 29
+    },
+    {
+        "City": "Hyderabad",
+        "Score": 27.83,
+        "Rank": 6
+    },
+    {
+        "City": "Indore",
+        "Score": 19.65,
+        "Rank": 31
+    },
+    {
+        "City": "Jaipur",
+        "Score": 22.09,
+        "Rank": 18
+    },
+    {
+        "City": "Jammu",
+        "Score": 20.86,
+        "Rank": 20
+    },
+    {
+        "City": "Jamshedpur",
+        "Score": 17.3,
+        "Rank": 37
+    },
+    {
+        "City": "Kanpur",
+        "Score": 20.08,
+        "Rank": 28
+    },
+    {
+        "City": "Kochi",
+        "Score": 23.89,
+        "Rank": 12
+    },
+    {
+        "City": "Kolkata",
+        "Score": 30.57,
+        "Rank": 5
+    },
+    {
+        "City": "Kozhikode",
+        "Score": 23.12,
+        "Rank": 15
+    },
+    {
+        "City": "Lucknow",
+        "Score": 19.25,
+        "Rank": 34
+    },
+    {
+        "City": "Ludhiana",
+        "Score": 19.38,
+        "Rank": 33
+    },
+    {
+        "City": "Mumbai",
+        "Score": 41.21,
+        "Rank": 2
+    },
+    {
+        "City": "Mysore",
+        "Score": 22.35,
+        "Rank": 17
+    },
+    {
+        "City": "Nagpur",
+        "Score": 22.05,
+        "Rank": 19
+    },
+    {
+        "City": "Nashik",
+        "Score": 19.98,
+        "Rank": 30
+    },
+    {
+        "City": "NOIDA",
+        "Score": 20.13,
+        "Rank": 27
+    },
+    {
+        "City": "Patna",
+        "Score": 18.06,
+        "Rank": 35
+    },
+    {
+        "City": "Pune",
+        "Score": 26.28,
+        "Rank": 8
+    },
+    {
+        "City": "Shimla",
+        "Score": 24.14,
+        "Rank": 11
+    },
+    {
+        "City": "Srinagar",
+        "Score": 20.63,
+        "Rank": 22
+    },
+    {
+        "City": "Surat",
+        "Score": 20.81,
+        "Rank": 21
+    },
+    {
+        "City": "Trivandrum",
+        "Score": 22.65,
+        "Rank": 16
+    },
+    {
+        "City": "Vadodara",
+        "Score": 20.34,
+        "Rank": 26
+    },
+    {
+        "City": "Vishakapatnam",
+        "Score": 17.73,
+        "Rank": 36
+    }
+]
